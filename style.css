@@ -5,8 +5,15 @@ body {
 
 h1 {
   font-size: 48px;
+  color: #003366;
 }
 
 h2 {
   font-size: 32px;
+  color: #b0b0b0;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
 }
